@@ -20,7 +20,7 @@ export const FeaturedWorkSection = () => {
                     </h2>
                   </div>
                   <a
-                    href="https://riseatseven.com/work/sixt/"
+                    href="https://riseatseven.com/work/images/"
                     className="group box-border caret-transparent grid min-h-[auto] min-w-[auto] outline-[3px] overflow-hidden mb-5 rounded-2xl md:mb-7"
                   >
                     <div className="box-border caret-transparent col-start-1 row-start-1 min-h-[auto] min-w-[auto] outline-[3px]">
