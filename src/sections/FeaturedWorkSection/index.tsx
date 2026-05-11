@@ -324,7 +324,7 @@ export const FeaturedWorkSection = () => {
                       <div className="relative box-border caret-transparent outline-[3px] w-full overflow-hidden pt-[75%]">
                         <picture className="absolute box-border caret-transparent block h-full outline-[3px] w-full left-0 top-0">
                           <img
-                            src="https://c.animaapp.com/mp18o4r3Bfs0lp/assets/139.webp"
+                            src="https://rise-atseven.transforms.svdcdn.com/production/images/Pooky-Rechargable-Doorstop-Cordless-100-Straight-Empire-Pendant-Silk-Ikat-Shade-in-Black-and-Cream-Atlas-44-Single-chukka-Cordless-95-scaled-1-1.jpg?w=1600&h=900&q=80&fm=webp&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1750847623&s=48b4d2d53fd31e1985a613ef74561c41"
                             sizes="100vw"
                             alt="Pooky Rechargable Doorstop Cordless 100 Straight Empire Pendant Silk Ikat Shade in Black and Cream Atlas 44 Single chukka Cordless 95 scaled 1 1"
                             className="box-border caret-transparent max-w-full outline-[3px]"
